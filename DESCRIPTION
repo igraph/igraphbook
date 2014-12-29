@@ -1,8 +1,8 @@
 Package: igraphbook
-Title: What the package does (one line)
-Version: 0.1
-Authors@R: "First Last <first.last@example.com> [aut, cre]"
-Description: What the package does (one paragraph)
-Depends: R (>= 3.1.2)
-License: What license is it under?
+Title: Companion Package for the Igraph Book
+Version: 1.0.0
+Authors@R: "Gabor Csardi <csardi.gabor@gmail.com> [aut, cre]"
+Description: This package contains some of the data sets and all the code
+    from the book 'Network Analysis with R/igraph'
+License: MIT + file LICENSE
 LazyData: true
